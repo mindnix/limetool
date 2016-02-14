@@ -12,3 +12,5 @@ config(['$routeProvider', function($routeProvider) {
   $routeProvider.otherwise({redirectTo: '/view1'});
 }]);
 //comment - just added by angelo
+// MEP-2200 added
+
