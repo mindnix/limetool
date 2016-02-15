@@ -27,5 +27,6 @@
 .menu > li:nth-child(1):before {
   content: "";
   padding: 60px;
-  margin:120px;
+  margin:140px;
+  margin-top:8px;
 }
