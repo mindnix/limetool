@@ -27,4 +27,5 @@
 .menu > li:nth-child(1):before {
   content: "";
   padding: 54px;
+  margin:100px;
 }
